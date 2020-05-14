@@ -48,6 +48,9 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	p.padtop {
+	  padding-top: 10px;
+	}
 /* Box Model */
 
 	*, *:before, *:after {
